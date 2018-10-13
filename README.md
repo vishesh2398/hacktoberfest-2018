@@ -2154,7 +2154,7 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://twitter.com/steroyle)
   [![github-alt][github-img]](https://github.com/steroyle)
 
-### Siddharth Dhanuka
+### Dhanuka
 - Backend developer and aspiring to be a Data Scientist
 - [![github-alt][github-img]](https://github.com/siddhanuka)
 
@@ -2292,7 +2292,9 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - Expertise in Data Structures and Algorithms (Java)
   [![github-alt][github-img]](https://github.com/uzmafaiz)
 
-# V
+### Vaibhav Basnsal
+- This I ❤ to contribute in open source projects.
+- Ppl also call me chapoman.🤘
 
 ### Vipin Kumar
 
