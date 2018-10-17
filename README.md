@@ -2396,6 +2396,12 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
 - [![twitter-alt][twitter-img]](https://mobile.twitter.com/Yaderr_)
   [![github-alt][github-img]](https://github.com/yaderson)
 
+### Yash Agarwal
+
+- I am an Undergrad student from IIT, Roorkee.
+- Love to create something new
+- Still trying to figure out the purpose of life.
+
 ### Yajushi Srivastava
 
 - I am a Software Engineer
