@@ -32,6 +32,12 @@ That said, suggested ways to contribute include:
 
 * Fork the project.
 * Create a code sample under `/code` named <yourname>.<language-file-extension>. I.e. `lukeoliff.js`, `lukeoliff.php` (please create your own rather than editing an existing one)
+* Create a working hello world example inside your file
+  
+  ### A code sample
+
+* Fork the project.
+* It was just to check the progress
 * Create a working hello world example inside your file.
 
 ## Code of Conduct
