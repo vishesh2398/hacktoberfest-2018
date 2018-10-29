@@ -8,3 +8,9 @@
 - [] I've forked the repository.
 - [] I've created a branch and made my changes in it.
 - [] I understand opening a PULL REQUEST doesn't mean it will be merged for sure.
+
+## Proposed Changes 2.0
+- [] I've forked the repository.
+- [] I've created a branch and made my changes in it.
+- [] I understand opening a PULL REQUEST doesn't mean it will be merged for sure.
+- I would like to work upon this as much as possible.
