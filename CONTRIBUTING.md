@@ -28,6 +28,11 @@ That said, suggested ways to contribute include:
 * Make sure you add your name to the correct letter section (alphabetically by first name)
 * Avoid making any whitespace changes or alterations to someone else's profile
 
+
+### Your name on the Vps
+
+* Add your name and description to the README.md using this example:
+
 ### A code sample
 
 * Fork the project.
