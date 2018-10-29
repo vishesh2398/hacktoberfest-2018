@@ -64,6 +64,18 @@ How do I track my progress to get an awesome shirt from Hacktoberfest 2018?
   - Reactjs.
 - [![github-alt][github-img]](https://github.com/goelaakash79)
 
+
+### VPS 2.0
+
+- Student, Self-taught Developer, Aspiring Entreprenuer
+- Currently, my team is open to pick projects.
+- I am currently work on:
+  - Android Development
+  - Nodejs
+  - Django
+  - Reactjs.
+-  Follow My profile
+
 ### Anant Maurya
 - Student
 - Current Working on:
